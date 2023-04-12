@@ -2,7 +2,7 @@
 
 https://www.kaggle.com/competitions/m5-forecasting-accuracy
 
-Technique used: LightGBM, Seq to Seq, Temporal Fusion Transformers
+Technique used: LightGBM, Seq to Seq, Temporal Fusion Transformers. Final Submission: LightGBM, Score: 0.56
 
 Business problem:
 
