@@ -1,7 +1,7 @@
 # Kaggle M5-Walmart-Timeseries-Forecasting
 
 https://www.kaggle.com/competitions/m5-forecasting-accuracy
-
+Technique used: LightGBM, Seq to Seq, Temporal Fusion Transformers
 Business problem:
 
 
